@@ -6,7 +6,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lexa2hk%&layout=compact&card_width=445&count_private=true&langs_count=16)
 
 
-![Alex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@lexa2hk)
+![Alex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lexa2hk)
 
 ### Social
 * [VK](https://vk.com/gdforsdrinhk)
