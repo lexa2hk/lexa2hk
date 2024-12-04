@@ -1,6 +1,9 @@
 # Stats
-![Alex's wakatime stats](https://wakatime.com/badge/user/b2bab565-b65e-4772-af94-c2e86b5cb123.svg)
-
-### Social
-* [VK](https://vk.com/gdforsdrinhk)
-* [Telegram](https://t.me/lexa2hk)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lexa2hk&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexa2hk&layout=compact&theme=tokyonight" />
+  </a>
+</p>
